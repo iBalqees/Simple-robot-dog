@@ -12,4 +12,5 @@ This project presents the preliminary mechanical design of a simple quadruped ro
 - Basic walking pattern 
 
 ## Project File
-- [Preliminary Mechanical Design of a Simple Robot.pdf](./Preliminary_Mechanical_Design_of_a_Simple_Robot_.pdf)
+- [Preliminary Mechanical Design of a Simple Robot.pdf]
+- Preliminary Mechanical Design of a Simple Robot.pdf
